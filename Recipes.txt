@@ -7,4 +7,7 @@ kheer
 pasta
 egg fry
 
+beans
+pizza
+
 Thank you
